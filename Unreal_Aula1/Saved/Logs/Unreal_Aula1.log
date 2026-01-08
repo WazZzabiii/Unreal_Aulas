@@ -1285,3 +1285,33 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.08-16.02.37:496][109]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2026.01.08-16.02.48:899][772]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2026.01.08-16.03.28:016][ 72]LogDerivedDataCache: C:/Users/migga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: URL: C:\Users\migga\AppData\Local/Programs/Git/cmd/git.exe version
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:274][244]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2026.01.08-16.06.41:275][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:275][244]LogWindows: Warning: URL: C:\Users\migga\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2026.01.08-16.06.41:275][244]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2026.01.08-16.06.41:275][244]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2026.01.08-16.07.00:581][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 326.600098
+[2026.01.08-16.07.00:765][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.07.00:765][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 326.766907, Update Interval: 302.827240
+[2026.01.08-16.07.00:877][240]SourceControl: Revision control is disabled
+[2026.01.08-16.07.00:879][240]LogSlate: Window 'Revision Control Login' being destroyed
+[2026.01.08-16.12.06:115][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 632.136475
+[2026.01.08-16.12.06:298][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.12.06:298][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 632.302185, Update Interval: 313.504456
+[2026.01.08-16.17.24:810][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 950.833008
+[2026.01.08-16.17.25:011][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.17.25:011][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 951.016174, Update Interval: 357.399811
+[2026.01.08-16.24.45:413][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1391.433960
+[2026.01.08-16.24.46:026][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-16.24.46:026][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1392.030640, Update Interval: 305.350494
+[2026.01.08-16.54.18:607][311]SourceControl: Revision control is disabled
+[2026.01.08-16.54.18:607][311]LogSlate: Window 'Revision Control Login' being destroyed
