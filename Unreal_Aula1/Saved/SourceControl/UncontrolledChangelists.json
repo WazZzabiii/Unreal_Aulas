@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3K/QMQBOK4RU7JOC1R99OW1J5.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1F/RYACST4MXOQTZ8W3ZQBF4Y.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/1Q/7ZO63L6GK402S08O8XEYJ5.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/BP_Door.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/Game_Mode.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/K0/D8RT8I3JKXHPSX9IG94B32.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/Game_Instance.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/Player_Contoller_Mine.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/BP_Interface.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/WIdget_UI.uasset",
+				"C:/repos/Unreal_Aulas/Unreal_Aula1/Content/ThirdPerson/Lvl_ThirdPerson.umap"
+			]
+		}
+	]
+}
