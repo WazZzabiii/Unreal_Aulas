@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\repos\\Unreal_Aulas\\Unreal_Aula1\\Source\\Unreal_Aula1\\Unreal_Aula1.Build.cs",
+		"C:\\repos\\Unreal_Aulas\\Unreal_Aula1\\Source\\Unreal_Aula1.Target.cs",
+		"C:\\repos\\Unreal_Aulas\\Unreal_Aula1\\Source\\Unreal_Aula1Editor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

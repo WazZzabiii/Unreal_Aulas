@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal_Aula1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/Unreal_Aula1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/Module.Unreal_Aula1.gen.cpp.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/Coin_Collectable.cpp.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/Coin_Counter.cpp.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/Unreal_Aula1.cpp.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/PerModuleInline.gen.cpp.obj"
+"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/Default.rc2.res"
+/OUT:"C:/repos/Unreal_Aulas/Unreal_Aula1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_Aula1/UnrealEditor-Unreal_Aula1.lib"
