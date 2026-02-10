@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repos\\unreal_aulas\\unreal_aula1\\source\\unreal_aula1\\moving_platforms_c.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\x64\\unreal_aula1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_aula1\\definitions.unreal_aula1.h",
+            "c:\\repos\\unreal_aulas\\unreal_aula1\\source\\unreal_aula1\\moving_platforms_c.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\timelinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timelinecomponent.generated.h",
+            "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_aula1\\uht\\moving_platforms_c.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

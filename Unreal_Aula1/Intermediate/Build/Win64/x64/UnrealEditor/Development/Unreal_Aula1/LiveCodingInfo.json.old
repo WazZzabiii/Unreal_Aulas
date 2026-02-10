@@ -4,6 +4,7 @@
 		"Module.Unreal_Aula1.gen.cpp.obj": [
 			"Coin_Collectable.gen.cpp.obj",
 			"Coin_Counter.gen.cpp.obj",
+			"MyCharacter.gen.cpp.obj",
 			"Unreal_Aula1.init.gen.cpp.obj"
 		]
 	}
