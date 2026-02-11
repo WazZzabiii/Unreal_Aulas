@@ -45,6 +45,12 @@
     <ClInclude Include="..\..\Source\Unreal_Aula1\Coin_Counter.h">
       <Filter>Source\Unreal_Aula1</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Aula1\MovingPlatform.cpp">
+      <Filter>Source\Unreal_Aula1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Aula1\MovingPlatform.h">
+      <Filter>Source\Unreal_Aula1</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Unreal_Aula1\Moving_Platforms_C.cpp">
       <Filter>Source\Unreal_Aula1</Filter>
     </ClCompile>

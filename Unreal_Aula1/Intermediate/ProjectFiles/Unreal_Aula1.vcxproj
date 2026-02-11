@@ -266,6 +266,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\Unreal_Aula1\Coin_Counter.h"/>
+    <ClCompile Include="..\..\Source\Unreal_Aula1\MovingPlatform.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Aula1\MovingPlatform.h"/>
     <ClCompile Include="..\..\Source\Unreal_Aula1\Moving_Platforms_C.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
