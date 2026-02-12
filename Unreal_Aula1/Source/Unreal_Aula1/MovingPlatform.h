@@ -1,3 +1,5 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
 #pragma once
 
 #include "CoreMinimal.h"
@@ -7,28 +9,31 @@
 UCLASS()
 class UNREAL_AULA1_API AMovingPlatform : public AActor
 {
-    GENERATED_BODY()
-
-public:
-    AMovingPlatform();
+	GENERATED_BODY()
+	
+public:	
+	// Sets default values for this actor's properties
+	AMovingPlatform();
 
 protected:
-    virtual void BeginPlay() override;
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
 
-public:
-    virtual void Tick(float DeltaTime) override;
+public:	
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Pathing", meta =(ExposedOnSpawn ="true", MakeEditWidget = "true"))
+	TArray<FVector> ThePath;
 
 private:
+	UPROPERTY(EditDefaultsOnly, Category = "Components") 
+	class UBoxComponent* BoxCollider;
 
-    UPROPERTY(VisibleAnywhere)
-    UStaticMeshComponent* PlatformMesh;
+	UPROPERTY(EditDefaultsOnly, Category = "Components") 
+	class UStaticMeshComponent* PlatformMesh;
 
-    UPROPERTY(EditAnywhere, Category = "Movement")
-    float MoveSpeed = 200.f;
-
-    UPROPERTY(EditAnywhere, Category = "Movement")
-    float MoveDistance = 500.f;
-
-    FVector StartLocation;
-    bool bMovingForward = true;
+	UPROPERTY(EditDefaultsOnly, Category = "Components") 
+	class UInterpToMovementComponent* MovementComponent;
+	
 };

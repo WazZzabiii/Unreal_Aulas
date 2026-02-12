@@ -270,10 +270,6 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\Unreal_Aula1\MovingPlatform.h"/>
-    <ClCompile Include="..\..\Source\Unreal_Aula1\Moving_Platforms_C.cpp">
-      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Unreal_Aula1\Moving_Platforms_C.h"/>
     <ClCompile Include="..\..\Source\Unreal_Aula1\MyCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

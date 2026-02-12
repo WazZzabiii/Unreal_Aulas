@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_aula1\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\x64\\unreal_aula1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\repos\\unreal_aulas\\unreal_aula1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_aula1\\definitions.unreal_aula1.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
